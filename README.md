@@ -34,9 +34,10 @@ The project includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/data-algorithms-assignment6.git
-2.Open the project in IntelliJ IDEA:
+   
+2. Open the project in IntelliJ IDEA:
 Launch IntelliJ IDEA.
 Click File > Open and select the project folder.
-3.Replace ExampleBot with your bot class name (e.g., MyBot) in Assignment6.java.
+3. Replace ExampleBot with your bot class name (e.g., MyBot) in Assignment6.java.
 Run the project:
-4.Build and execute Assignment6.java to simulate 10,000 games.
+4. Build and execute Assignment6.java to simulate 10,000 games.
